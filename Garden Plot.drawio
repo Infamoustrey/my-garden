@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T05:04:27.948Z" agent="5.0 (X11)" etag="ybJbqAWcNy08QFgDY2sv" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T13:55:25.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8CnDPIkpMQBPWw28wqGT" version="15.2.7" type="github">
   <diagram id="yHEFBjre0bWm8jEzyCDF" name="Page-1">
-    <mxGraphModel dx="2036" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,20 +84,23 @@
         <mxCell id="S4OQC5h1mxq3_K8Vj7pI-38" value="&lt;div&gt;&lt;div&gt;Planted: 12/27/21&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="360" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-F5KsbFZE4-UDRd3xcNL-1" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="730" width="110" height="110" as="geometry" />
+        <mxCell id="-F5KsbFZE4-UDRd3xcNL-1" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="100" y="810" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-F5KsbFZE4-UDRd3xcNL-5" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="730" width="110" height="110" as="geometry" />
+        <mxCell id="-F5KsbFZE4-UDRd3xcNL-5" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="810" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-F5KsbFZE4-UDRd3xcNL-6" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="730" width="110" height="110" as="geometry" />
+        <mxCell id="-F5KsbFZE4-UDRd3xcNL-6" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="380" y="810" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-F5KsbFZE4-UDRd3xcNL-7" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="850" width="110" height="110" as="geometry" />
+        <mxCell id="-F5KsbFZE4-UDRd3xcNL-7" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="170" y="930" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-F5KsbFZE4-UDRd3xcNL-8" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="315" y="850" width="110" height="110" as="geometry" />
+        <mxCell id="-F5KsbFZE4-UDRd3xcNL-8" value="&lt;div&gt;Cayenne Peppers&lt;/div&gt;&lt;div&gt;Planted 12/27/21&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="315" y="930" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTOpu2KcdMAOw4axOjP-1" value="Cayenne Pepper Pots&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://www.gardenguides.com/68724-grow-cayenne-peppers-indoors.html&quot;&gt;Guide&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="680" width="135" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
